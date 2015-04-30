@@ -1,6 +1,6 @@
 ### FlightSimulatorInterface: The P&P Homecockpit Interface
 
-FlightSimulatorInterface (**FSI**) manages the connection between your [Arduinos](https://github.com/arduino/Arduino) and Flight Simulator
+FlightSimulatorInterface (**FSI**) manages the connection between your [Arduinos](https://github.com/arduino/Arduino) and Flight Simulator.
 
 Currently FSI only supports Prepar3D and the PMDG 737 NGX. Future support for FS9/FSX and other airplanes is planned. However, I'm only focusing on PMDG support for now.
 
