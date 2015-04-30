@@ -21,4 +21,4 @@ I've been fascinated with flying for several years. I almost started the trainin
 
 I didn't want to just buy every piece of hardware for hundreds or thousands of Euros and figured we should be able to build most of the hardware ourselves. After all, our group includes someone with a degree in mechanical engineering and an electrical engineer - I myself am a professional web developer with some experience in C++, C# and Java. So instead we wanted to do our own research and figure out what works best.
 
-All of our R&D is being documented on my (German) blog at [padarom.de](http://www.padarom.de).
+All of our R&D is being documented on my (German) blog at [padarom.de](http://www.padarom.de), so everyone who knows German (it might be continued in English as well) can read along and see exactly what our thoughts and reasons for certain decisions were and are then able to build their own homecockpit too.
